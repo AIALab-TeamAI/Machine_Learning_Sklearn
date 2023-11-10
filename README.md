@@ -3,3 +3,4 @@
 ```
 https://github.com/patrickloeber/MLfromscratch
 ```
+## [Lecture](https://www.cs.toronto.edu/~lczhang/321/)
